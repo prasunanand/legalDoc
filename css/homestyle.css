@@ -163,7 +163,7 @@ color: #000000;
 border-radius: 3px;
 /* padding-bottom: 2px; */
 padding-top: 14px;
-margin: 2px auto;
+margin-top: 32px;
 font-weight: bold;
 padding-left: 31px;
 }
@@ -182,4 +182,28 @@ position: relative;
 top: -371px;
 right: 31px;
 height: 0px;
+}
+
+.heading1{
+	display: block;
+	color: #F5F5F5;
+	font-size:28px;
+
+}
+
+.heading2{
+	display: block;
+	color: #ffffff;
+	font-size:30px;
+	font-weight: bold;
+	border-top: 10px;
+	line-height: 40px;
+}
+.heading3{
+	display: block;
+	color: #ffffff;
+	font-size:19px;
+	border-bottom: 30px;
+	color: #939292;
+
 }

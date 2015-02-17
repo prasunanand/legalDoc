@@ -176,6 +176,11 @@ font-weight: bold;
 padding-left: 31px;
 }
 
+.pulse3:hover{
+	text-decoration: none;
+	color: #f7f7f7;
+}
+
 .tryContent{
 	font-size: 18px;
 	display:block;
